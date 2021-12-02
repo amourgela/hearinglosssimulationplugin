@@ -1,5 +1,4 @@
 # hearinglosssimulationplugin
-Hearing loss simulation VST plugin
 Thank you for downloading the Hearing Loss Simulation plugin! 
 
 2021 Version updates (Windows version only): Rapid loudness growth is now utilising the envelope expansion method for simulation of recruitment by Nejime & Moore (1997).
